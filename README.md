@@ -4,6 +4,7 @@ Retail Sales Analytics Dashboard built using Power BI
 📌 Overview
 
 This project analyzes retail outlet performance and product sales using Power BI.
+![BLINKIT DASHBOARD](https://github.com/user-attachments/assets/5f8b65f2-1b69-4ebb-9a59-09c6a4e1d1a0)
 
 📈 Key Metrics
 
@@ -22,3 +23,6 @@ Power BI
 Excel
 
 SQL
+
+
+
